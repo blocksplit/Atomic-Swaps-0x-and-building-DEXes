@@ -1,0 +1,25 @@
+{
+  "mnemonic": "cake shuffle start raw wire region perfect sketch rotate rate library today",
+  "keyPairs": [
+    {
+      "privKey": "cRVKQNGqY5x2oe8vouqjFJoD4mk8iDWcwPur7UPj4KPEviCMtCTC",
+      "address": "my6KBWTD3vDL9aXkcbeA7hHyhp1uXrhz5f"
+    },
+    {
+      "privKey": "cSSYrtrd5UwuXDu4hqFN71jFSSAzSA4XkfgJ89dJQyBX8GZbae9b",
+      "address": "mrBhEHfZDNBhmMcNMwxrCRdxF1wutHqNxU"
+    },
+    {
+      "privKey": "cN5qi7qeQXQ6UtVWwripnmmNKWRDhE3zTuExKrEeJUYzhMD7t8iy",
+      "address": "mzm3CXQihP15zjFPG3meGhfDpjrkDUq76u"
+    },
+    {
+      "privKey": "cNsppzPYZhg1HZmL7Wxp1f4sHy4ri4i9vonjxpkfMCRnai7Tyy84",
+      "address": "n3VYeqnrKBiNVfytg3CNqc9Kc3D8NQE97g"
+    },
+    {
+      "privKey": "cPArvaJUJfVvc4PiHhSWVtb7F7ez79jT6MhYYYTHL6vRy5Uwqx8H",
+      "address": "muwVVb8aBDvvxQPVhKnJZKv57A3CChNAmQ"
+    }
+  ]
+}
