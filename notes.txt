@@ -1,0 +1,17 @@
+Library's used:
+    Bitcoin:
+        bitcoinjs-lib
+        bip39
+
+    Ethereum:
+        web3
+        bip39
+
+Useful resources:
+    Block explorers
+        BTC:
+
+        ETH:
+
+    BTC:
+        Standards:
